@@ -1,0 +1,27 @@
+# Core app
+streamlit
+python-dotenv
+pydantic>=2.0
+
+# LangChain + Gemini
+langchain
+langchain-core
+langchain-text-splitters
+langchain-classic
+langchain-google-genai
+langchain-community
+langchain-chroma
+chromadb
+google-generativeai
+
+# PDF ingestion
+pypdf
+
+# YouTube ingestion
+youtube-transcript-api
+yt-dlp
+
+# Web ingestion
+requests
+beautifulsoup4
+trafilatura
